@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD8D37&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c2d72&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fd8d37&size=35&center=true&vCenter=true&width=1000&lines=HEY!+I'm+Vinicius+Lazzeri!;I'm+24+years+old!;I'm+from+Brazil;I'm+a+Computer+Engineering+student;and+I'm+based+in+Manaus!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=777bb4&size=35&center=true&vCenter=true&width=1000&lines=HEY!+I'm+Vinicius+Lazzeri!;I'm+24+years+old!;I'm+from+Brazil;I'm+a+Computer+Engineering+student;and+I'm+based+in+Manaus!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinicius-lazzeri&show_icons=true&count_private=true&hide_border=true&title_color=fd8d37&icon_color=fd8d37&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Lazzeri github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinicius-lazzeri&show_icons=true&count_private=true&hide_border=true&title_color=777bb4&icon_color=777bb4&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Lazzeri github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lazzeri&layout=compact&hide_border=true&title_color=fd8d37&text_color=C9D1D9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinicius-lazzeri&bg_color=0d1117&color=fd8d37&line=fd8d37&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinicius-lazzeri&bg_color=0d1117&color=777bb4&line=777bb4&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vinicius-lazzeri&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -35,4 +35,4 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fd8d37&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c2d72&height=120&section=footer"/>
