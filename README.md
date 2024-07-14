@@ -42,6 +42,6 @@ I'm a developer with a strong foundation in computer vision, artificial intellig
 ### 📊 Stats
 
 ![vinicius-lazzeri's Stats](https://github-readme-stats.vercel.app/api?username=vinicius-lazzeri&theme=default&show_icons=true&hide_border=true&count_private=true)
-![vinicius-lazzeri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicius-lazzeri&theme=default&hide_border=true)
+<!-- ![vinicius-lazzeri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicius-lazzeri&theme=default&hide_border=true) -->
 
 #
