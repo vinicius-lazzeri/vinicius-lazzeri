@@ -6,7 +6,7 @@ I'm a developer with a strong foundation in computer vision, artificial intellig
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vinicius-lazzeri/">
-    <img alt="Connect with me on LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="Connect with me on LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:vinicius.lazzeri@gmail.com">
